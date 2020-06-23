@@ -1,0 +1,10 @@
+.body{
+    height: 100%;
+    margin: 0;
+}
+.body{
+    background: url('../assets/Img/WebHome.svg') no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
